@@ -10,6 +10,7 @@
             width: 100%;
           }
           h2{
+            padding: 5%;
             text-align: center;
           }
           th, td {
