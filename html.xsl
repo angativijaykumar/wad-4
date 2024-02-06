@@ -16,11 +16,11 @@
             border: 1px solid black;
             padding: 8px;
             text-align: left;
-            background-color:  #fee715;
-            color: black;
+            background-color:  #e0a96d;
+            color: Black-brown;
           }
           th {
-            background-color: #00f7ff;
+            background-color: #ddc3a5;
           }
         </style>
       </head>
