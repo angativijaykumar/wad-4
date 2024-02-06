@@ -15,8 +15,7 @@
             text-align: left;
           }
           th {
-            background-color: #000000;
-            color: #ffffff;
+            background-color: #00f7ff;
           }
         </style>
       </head>
