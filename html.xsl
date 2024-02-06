@@ -17,7 +17,7 @@
             padding: 8px;
             text-align: left;
             background-color:  #e0a96d;
-            color: Black-brown;
+            color: #201e20;
           }
           th {
             background-color: #ddc3a5;
