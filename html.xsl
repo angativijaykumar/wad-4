@@ -22,7 +22,7 @@
       <body>
         <h2>Anime List</h2>
         <table>
-          <tr>
+          <tr bgcolor="#00f7ff">
             <th>Title</th>
             <th>IMDb Rating</th>
             <th>No. of Episodes</th>
