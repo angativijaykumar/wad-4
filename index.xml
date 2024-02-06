@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="html.xsl"?>
+<listofanimes>
+<anime id="1">
+    <Title>SOLO LEVELING</Title>
+    <Imdb>10</Imdb>
+    <NoEp>24</NoEp>
+    <releaseyear>2024</releaseyear>
+</anime>
+<anime id="2">
+    <Title>BLACK CLOVER</Title>
+    <Imdb>9.85</Imdb>
+    <NoEp>173</NoEp>
+    <releaseyear>2017</releaseyear>
+</anime>
+<anime id="3">
+    <Title>MY HERO ACADEMIA</Title>
+    <Imdb>9.65</Imdb>
+    <NoEp>150</NoEp>
+    <releaseyear>2016</releaseyear>
+</anime>
+<anime id="4">
+    <Title>ONE PIECE</Title>
+    <Imdb>9.2</Imdb>
+    <NoEp>1086</NoEp>
+    <releaseyear>1999</releaseyear>
+</anime>
+<anime id="5">
+    <Title>DEMON SLAYER</Title>
+    <Imdb>9.99</Imdb>
+    <NoEp>70</NoEp>
+    <releaseyear>2019</releaseyear>
+</anime>
+<anime id="6">
+    <Title>BLEACH</Title>
+    <Imdb>7</Imdb>
+    <NoEp>600</NoEp>
+    <releaseyear>2004</releaseyear>
+</anime>
+<anime id="7">
+    <Title>SHELID HERO</Title>
+    <Imdb>9.8</Imdb>
+    <NoEp>50</NoEp>
+    <releaseyear>2019</releaseyear>
+</anime>
+<anime id="8">
+    <Title>KINGS AVATAR</Title>
+    <Imdb>9.88</Imdb>
+    <NoEp>60</NoEp>
+    <releaseyear>2017</releaseyear>
+</anime>
+<anime id="9">
+    <Title>SWORD ART ONLINE</Title>
+    <Imdb>8.9</Imdb>
+    <NoEp>100</NoEp>
+    <releaseyear>2012</releaseyear>
+</anime>
+<anime id="10">
+    <Title>KONOSUBA</Title>
+    <Imdb>9.97</Imdb>
+    <NoEp>70</NoEp>
+    <releaseyear>2012</releaseyear>
+</anime>
+<anime id="11">
+    <Title>ATTACK ON TITAN</Title>
+    <Imdb>9.96</Imdb>
+    <NoEp>94</NoEp>
+    <releaseyear>2013</releaseyear>
+</anime>
+<anime id="12">
+    <Title>DEATH NOTE</Title>
+    <Imdb>8.89</Imdb>
+    <NoEp>35</NoEp>
+    <releaseyear>2006</releaseyear>
+</anime>
+<anime id="13">
+    <Title>JUJUTSU KAISEN</Title>
+    <Imdb>9.62</Imdb>
+    <NoEp>49</NoEp>
+    <releaseyear>2020</releaseyear>
+</anime>
+<anime id="14">
+    <Title>NARUTO</Title>
+    <Imdb>9.12</Imdb>
+    <NoEp>408</NoEp>
+    <releaseyear>2007</releaseyear>
+</anime>
+<anime id="15">
+    <Title>DRAGON BALL Z</Title>
+    <Imdb>8.54</Imdb>
+    <NoEp>854</NoEp>
+    <releaseyear>1989</releaseyear>
+</anime>
+<anime id="16">
+    <Title>POKEMON</Title>
+    <Imdb>8.23</Imdb>
+    <NoEp>2000+</NoEp>
+    <releaseyear>1996</releaseyear>
+</anime>
+<anime id="17">
+    <Title>ONE-PUNCH MAN</Title>
+    <Imdb>9.34</Imdb>
+    <NoEp>24</NoEp>
+    <releaseyear>2015</releaseyear>
+</anime>
+<anime id="18">
+    <Title>FRUITS BASKET</Title>
+    <Imdb>9.73</Imdb>
+    <NoEp>50</NoEp>
+    <releaseyear>2019</releaseyear>
+</anime>
+<anime id="19">
+    <Title>A SLIENT VOICE</Title>
+    <Imdb>9.33</Imdb>
+    <NoEp>1</NoEp>
+    <releaseyear>2016</releaseyear>
+</anime>
+<anime id="20">
+    <Title>CLANNAD</Title>
+    <Imdb>8.97</Imdb>
+    <NoEp>50</NoEp>
+    <releaseyear>2004</releaseyear>
+</anime>
+</listofanimes>
