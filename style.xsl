@@ -5,9 +5,6 @@
       <head>
         <title>Anime List</title>
         <style>
-          body {
-            background-color:  ##234e70;
-          }
           table {
             border-collapse: collapse;
             width: 100%;
@@ -24,7 +21,7 @@
           }
         </style>
       </head>
-      <body>
+      <body bgcolor="#234e70">
         <h2>LIST OF ANIMES</h2>
         <table>
           <tr>
