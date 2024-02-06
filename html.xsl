@@ -16,7 +16,7 @@
             border: 1px solid black;
             padding: 8px;
             text-align: left;
-            background-color:  #FEE715;
+            background-color:  #fee715;
             color: black;
           }
           th {
