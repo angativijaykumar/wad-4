@@ -13,6 +13,8 @@
             border: 1px solid black;
             padding: 8px;
             text-align: left;
+            background-color: #000000;
+            color: white;
           }
           th {
             background-color: #00f7ff;
