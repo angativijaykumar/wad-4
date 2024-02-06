@@ -9,12 +9,15 @@
             border-collapse: collapse;
             width: 100%;
           }
+          h2{
+            text-align: center;
+          }
           th, td {
             border: 1px solid black;
             padding: 8px;
             text-align: left;
-            background-color: #000000;
-            color: white;
+            background-color:  #FEE715;
+            color: black;
           }
           th {
             background-color: #00f7ff;
@@ -22,7 +25,7 @@
         </style>
       </head>
       <body>
-        <h2>Anime List</h2>
+        <h2>LIST OF ANIMES</h2>
         <table>
           <tr bgcolor="#00f7ff">
             <th>Title</th>
