@@ -5,12 +5,13 @@
       <head>
         <title>Anime List</title>
         <style>
-           table {
+          table {
             border-collapse: collapse;
+            font-family:Arial, Helvetica, sans-serif;
+            margin: auto;
             width: 100%;
           }
-          h2{
-            padding: 1%;
+          h1{
             text-align: center;
           }
           th, td {
