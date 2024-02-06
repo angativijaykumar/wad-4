@@ -5,6 +5,9 @@
       <head>
         <title>Anime List</title>
         <style>
+          body {
+            background-color:  ##234e70;
+          }
           table {
             border-collapse: collapse;
             width: 100%;
@@ -16,18 +19,15 @@
             border: 1px solid black;
             padding: 8px;
             text-align: left;
-            background-color:  #e0a96d;
+            background-color:  #fbf8be;
             color: #201e20;
-          }
-          th {
-            background-color: #ddc3a5;
           }
         </style>
       </head>
       <body>
         <h2>LIST OF ANIMES</h2>
         <table>
-          <tr bgcolor="#00f7ff">
+          <tr>
             <th>Title</th>
             <th>IMDb Rating</th>
             <th>No. of Episodes</th>
