@@ -5,20 +5,25 @@
       <head>
         <title>Anime List</title>
         <style>
-          table {
+           table {
             border-collapse: collapse;
             width: 100%;
           }
           h2{
-            padding: 5%;
+            padding: 1%;
             text-align: center;
           }
           th, td {
-            border: 1px solid black;
-            padding: 8px;
+            border: 1px solid;
+            padding: 6px;
             text-align: left;
             background-color:  #fbf8be;
             color: #201e20;
+          }
+          th {
+            background-color:  darkkhaki;
+            color:black;
+            text-align: center;
           }
         </style>
       </head>
