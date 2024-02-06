@@ -29,7 +29,7 @@
         </style>
       </head>
       <body bgcolor="#234e70">
-        <h2>LIST OF ANIMES</h2>
+        <h1>LIST OF ANIMES</h1>
         <table>
           <tr>
             <th>Title</th>
